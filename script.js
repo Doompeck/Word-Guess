@@ -1,3 +1,12 @@
+// <<<<<<< manny1
+// // Timer counts down 
+// var timeleft= 15;
+
+// var timeInterval = setInterval(function () {
+//     if (timeleft > 1) { 
+
+//         timeInterval
+        
 var timeEl = document.querySelector(".time");
 
 // Selects element by id
